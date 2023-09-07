@@ -1,0 +1,48 @@
+body{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around; 
+}
+
+.title{
+    justify-self: top;
+}
+
+h1{
+    font-family: anderik;
+    font-size: 3em;
+}
+
+.btns{
+    display: flex;
+    flex-direction: column;
+}
+.btn-form{
+    margin-bottom: 5px;
+}
+.btn-form input{
+    width: 92px;
+}
+
+button{
+    border: 0px;
+    width: 100px;
+    height: 50px;
+    background-color: rgb(255, 238, 0);
+    font-family: moonrising;
+    font-size: 0.8em;
+}
+
+button:hover{
+    background-color: black;
+    color: rgb(255, 238, 0);
+}
+
+#container{
+    display: grid;
+    width: 600px;
+    height: 600px;
+    border: 0.5px solid black;
+}
