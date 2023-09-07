@@ -1,2 +1,2 @@
 # etch-a-sketch
-four porject on the odinproject.com curriculum
+four project on the odinproject.com curriculum
